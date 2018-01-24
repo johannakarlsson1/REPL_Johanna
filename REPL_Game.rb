@@ -1,3 +1,4 @@
+#Det är jätte snyggt! 
 puts "\u{1F984} Welcome to Unicorn Island! \u{1F984}"
 puts "Which Unicorn do you want to be?"
 puts "\u{1F380} Options: Dazzling darling or Silver starlight \u{1F380}"
